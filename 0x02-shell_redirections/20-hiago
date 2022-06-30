@@ -1,0 +1,3 @@
+#! /bin/bash
+echo -n "welcome to alx coding" | tr -d "c"
+

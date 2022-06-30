@@ -1,0 +1,3 @@
+#! /bin/bash
+echo "AbCdefgHc" | tr Ac Ze
+
